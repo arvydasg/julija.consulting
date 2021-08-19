@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+      <title>Ženklinimas</title>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+      <link rel="stylesheet" href="assets-pages/css/pages.css" />
+
+      <link rel="apple-touch-icon" sizes="180x180" href="img/favicon_io/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="img/favicon_io/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="img/favicon_io/favicon-16x16.png">
+      <link rel="manifest" href="img/favicon_io/site.webmanifest">
+      
+    <noscript><link rel="stylesheet" href="assets-pages/css/noscript.css" /></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+      <!-- Header -->
+      <header id="header">
+	<div class="inner">
+
+	  <!-- Logo -->
+	  <a href="https://julija.consulting/" class="logo">
+	      <span class="symbol"><img src="img/juodas.jpeg" alt="" /></span><span class="title"></span>
+	  </a>
+
+	  <!-- Nav -->
+	  <nav>
+	    <ul>
+	      <li><a href="#menu">Menu</a></li>
+	    </ul>
+	  </nav>
+
+	</div>
+      </header>
+
+      <!-- Menu -->
+      <nav id="menu">
+	  <h4>Menu</h4>
+	  <ul>
+	  <li><a href="https://julija.consulting/">Pagrindinis</a></li>
+	  <li><a href="maisto_sauga.html">Maisto sauga</a></li>
+	  <li><a href="startuoliai.html">Startuoliai</a></li>
+	  <li><a href="zenklinimas.html">Ženklinimas</a></li>
+	  <li><a href="mokymai.html">Mokymai</a></li>
+	  <li><a href="techno.html">Techno</a></li>
+	  <li><a href="eco.html">Eko gamyba</a></li>
+	</ul>
+
+	<br>
+	<h4>Kontaktai</h4>
+	
+	<ul class="kontaktai">
+	    <li>+37064550727</li>
+	    <li>info@julija.consulting</li>
+	</ul>
+	
+      </nav>
+
+      <!-- Main -->
+      <div id="main">
+	<div class="inner">
+
+	  <h1>Ženklinimas</h1>
+	  
+	  <!-- <span class="image main"><img src="img/pic13.jpg" alt="" /></span> -->
+	  <!-- <h2>Tai ir tai</h2> -->
+
+	  <button type="button" class="collapsible">Maisto produktų ženklinimo rengimas, koregavimas</button>
+	  <div class="contentas">
+	      <ul>
+		  <li>Rengiu, koreguoju maisto produktų ženklinimo etiketes pagal teisės aktų reikalavimus.</li>
+		  <li>Konsultuoju maisto produktų ženklinimo klausimais.</li>
+	      </ul>
+	  </div>
+	  <button type="button" class="collapsible">Gaminių maistinės – energinės vertės skaičiavimas</button>
+	  <div class="contentas">
+	      <ul>
+		  <li>Atlieku maisto produktų teorinius maistingumo skaičiavimus.</li>
+	      </ul>
+	  </div>
+	  
+	  <span class=labas-span>
+	      
+	      <a href=https://www.linkedin.com/in/julija-skridulytė target="_blank">
+		  <img class="labas src" src="img/linkedin.png">
+		  
+		  <a href="img/Julija.pdf" target="_blank">
+		      <img class="labas src" src="img/cv.png">
+		      
+		      <div class="tooltip-phone">
+			  <a href="tel:+37064550727" target="_blank">
+			      <span class="tooltiptext"> +37064550727</span>
+			      <img class="labas src" src="img/senobinis.png">
+			      
+		      </div>
+
+		      <div class="tooltip-email">
+			  <a href=mailto:info@julija.consulting>
+			      <span class="tooltiptext"> info@julija.consulting</span>
+			      <img class="labas src" src="img/email.png"></a>
+	  </span>
+
+	  
+	</div>
+      </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets-pages/js/jquery.min.js"></script>
+    <script src="assets-pages/js/browser.min.js"></script>
+    <script src="assets-pages/js/breakpoints.min.js"></script>
+    <script src="assets-pages/js/util.js"></script>
+    <script src="assets-pages/js/main.js"></script>
+
+    <script>
+      var coll = document.getElementsByClassName("collapsible");
+      var i;
+
+      for (i = 0; i < coll.length; i++) {
+	  coll[i].addEventListener("click", function() {
+	      this.classList.toggle("active");
+	      var contentas = this.nextElementSibling;
+	      if (contentas.style.maxHeight){
+		  contentas.style.maxHeight = null;
+	      } else {
+		  contentas.style.maxHeight = contentas.scrollHeight + "px";
+	      }
+	  });
+      }
+    </script>
+
+  </body>
+</html>
