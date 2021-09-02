@@ -1,4 +1,4 @@
-#+ARCHIVE: ~/Dropbox/org/backups/archive/%s_datetree::datetree/
+#+ARCHIVE: ~/Dropbox/99.backups/archive/%s_datetree::datetree/
 
 ** Julytes projektas:
    :CLOCK:
