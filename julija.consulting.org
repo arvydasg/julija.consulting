@@ -47,6 +47,8 @@
     CLOCK: [2021-09-11 Št 05:59]--[2021-09-11 Št 06:07] =>  0:08
     - chrome password improt problem
     :END:
+*** call to action text - bendradarbiaukime ! kontaktai cia, paslaugos cia
+*** add address infox
 ** fix tablet front page button
 ** sukurti puslapi kiek didesni, kur gali rasyti blogus ir pan. 
 ** contenta gali rasyti ta moteryte is spieciaus
