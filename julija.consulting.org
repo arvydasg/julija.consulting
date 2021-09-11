@@ -1,0 +1,1200 @@
+#+BEGIN: clocktable :maxlevel 4 :compact nil :emphasize t :scope file :timestamp t :link t :header "#+NAME: 2021_Rugsejis\n"
+#+NAME: 2021_Rugsejis
+| Timestamp       | Headline                                         | Time      |            |       |       |
+|-----------------+--------------------------------------------------+-----------+------------+-------+-------|
+|                 | *Total time*                                     | *2d 3:08* |            |       |       |
+|-----------------+--------------------------------------------------+-----------+------------+-------+-------|
+|                 | *[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021][2021]]*                                           | *2d 3:08* |            |       |       |
+|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08%20rugpj%C5%AB%C4%8Dio][2021-08 rugpjūčio]]/                          |           | /16:36/    |       |       |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-05%20Ketvirtadienis][2021-08-05 Ketvirtadienis]]                  |           |            |  4:36 |       |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Sukurem%20julija.consulting][Sukurem julija.consulting]]                |           |            |       |  0:32 |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Irasytas%20wordpress,%20peradresuotas%20domenas%20i%20nauja%20serveri][Irasytas wordpress, peradresuotas...]]     |           |            |       |  2:00 |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Nukopijavau%20puslapi.%20wordpress-%20overkill][Nukopijavau puslapi. wordpress- overkill]] |           |            |       |  2:04 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-06%20Penktadienis][2021-08-06 Penktadienis]]                    |           |            |  1:04 |       |
+| <2021-08-06 Pn> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pritaikyti%20templates][Pritaikyti templates]]                     |           |            |       |  1:04 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-11%20Tre%C4%8Diadienis][2021-08-11 Trečiadienis]]                    |           |            |  5:01 |       |
+| <2021-08-11 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Hover%20for%20email%20and%20phone][Hover for email and phone]]                |           |            |       |  5:01 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-12%20Ketvirtadienis][2021-08-12 Ketvirtadienis]]                  |           |            |  5:45 |       |
+| <2021-08-12 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pliusiukai,%20hover%20fix%20ir%20pan.][Pliusiukai, hover fix ir pan.]]            |           |            |       |  5:45 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-19%20Ketvirtadienis][2021-08-19 Ketvirtadienis]]                  |           |            |  0:10 |       |
+| <2021-08-19 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20mobile%20thingies%20according%20to%20Simona][Fixed mobile thingies according to...]]    |           |            |       |  0:10 |
+|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09%20rugs%C4%97jo][2021-09 rugsėjo]]/                            |           | /1d 10:32/ |       |       |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-04%20%C5%A0e%C5%A1tadienis][2021-09-04 Šeštadienis]]                     |           |            |  1:24 |       |
+| <2021-09-04 Št> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Calculating%20the%20hours,%20making%20a%20table][Calculating the hours, making a table]]    |           |            |       |  1:24 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-07%20Antradienis][2021-09-07 Antradienis]]                     |           |            | 10:21 |       |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Tiko%20Julytei%20phantom][Tiko Julytei phantom]]                     |           |            |       |  1:01 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pytting%20in%20proper%20templates][Pytting in proper templates]]              |           |            |       |  0:03 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Some%20styling][Some styling]]                             |           |            |       |  0:10 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pries%20pasivaiksciojima][Pries pasivaiksciojima]]                   |           |            |       |  1:04 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20fonts][Fixed fonts]]                              |           |            |       |  8:03 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-08%20Tre%C4%8Diadienis][2021-09-08 Trečiadienis]]                    |           |            | 10:59 |       |
+| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Neaisku][Neaisku]]                                  |           |            |       | 10:34 |
+| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::sukurtas%20el%20pastas%20-%20info@julija.consulting][sukurtas  el pastas -...]]                 |           |            |       |  0:25 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-09%20Ketvirtadienis][2021-09-09 Ketvirtadienis]]                  |           |            |  0:23 |       |
+| <2021-07-27 An> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Researched%20consulting%20websites][Researched consulting websites]]           |           |            |       |  0:23 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-10%20Penktadienis][2021-09-10 Penktadienis]]                    |           |            | 11:25 |       |
+| <2021-08-10 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Logo,%20menu,%20spalvos,%20Cv,%20caching][Logo, menu, spalvos, Cv, caching]]         |           |            |       | 11:25 |
+ #+END:
+* Julija.consulting To-do
+** julija.consulting on web search
+** Marketing
+*** NEXT add Tomo recommendations (google tags)
+    :PROPERTIES:
+    :Effort:   4:00
+    :END:
+    :CLOCK:
+    CLOCK: [2021-09-11 Št 06:14]
+    CLOCK: [2021-09-11 Št 05:59]--[2021-09-11 Št 06:07] =>  0:08
+    - chrome password improt problem
+    :END:
+** fix tablet front page button
+** sukurti puslapi kiek didesni, kur gali rasyti blogus ir pan. 
+** contenta gali rasyti ta moteryte is spieciaus
+* 2021
+** 2021-07 liepos
+*** 2021-07-28 Trečiadienis
+**** DONE pagooglink julytes projekto ideju. ale konsultantai
+CLOSED: [2021-07-28 An 13:44] SCHEDULED: <2021-07-28 An>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_07 LIEPA
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+
+
+** 2021-08 rugpjūčio
+*** 2021-08-04 Trečiadienis
+**** DONE fotke julytei
+     CLOSED: [2021-08-04 Tr 15:41] SCHEDULED: <2021-08-04 Wed>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+
+*** 2021-08-05 Ketvirtadienis
+**** DONE Sukurem julija.consulting
+CLOSED: [2021-08-05 Kt 14:06] SCHEDULED: <2021-08-05 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-05 Kt 17:50] \\
+       krc uzsiblokavo prisijungimas i iv.lt, ka padarysi, lauksma. sukurem julija.consulting
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-05 Kt 10:43]--[2021-08-05 Kt 11:15] =>  0:32
+     :END:
+
+**** DONE Irasytas wordpress, peradresuotas domenas i nauja serveri
+CLOSED: [2021-08-05 Kt 14:06] SCHEDULED: <2021-08-05 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :CLOCK:
+     CLOCK: [2021-08-05 Kt 14:25]--[2021-08-05 Kt 16:25] =>  2:00
+     :END:
+
+**** DONE Nukopijavau puslapi. wordpress- overkill
+CLOSED: [2021-08-05 Kt 14:06] SCHEDULED: <2021-08-05 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-05 Kt 17:50] \\
+     - nice. Baigiau is tikro 20:13, bet also snekejom su Obels Dumu apie covida ju
+     namuose, taip pat ir uzvalgem.
+     NUKOPIJAVAU puslapi!!! Julyte patenkinta. Wordpress - overkill
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-05 Kt 16:26]--[2021-08-05 Kt 18:30] =>  2:04
+     :END:
+
+*** 2021-08-06 Penktadienis
+**** DONE Pritaikyti templates
+CLOSED: [2021-08-06 Tr 14:06] SCHEDULED: <2021-08-06 Pn>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-06 Kt 17:54]
+   - Radau daug templates, pats nedarysiu nuo nulio. Ilgai uztruks. Na, bet
+     koreguoti taip pat tikriausiai uztruks.. ir nezinosi kaip kas
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-06 Pn 13:00]--[2021-08-06 Pn 14:04] =>  1:04
+     :END:
+
+**** DONE Logo, menu, spalvos, Cv, caching
+CLOSED: [2021-08-10 An 14:01] SCHEDULED: <2021-08-10 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-10 An 17:54]
+   - photoshop logo, menu su julyte, susiaurink dalykus, spalvos meniu ir clickable.
+     CV padarem su InDesign, proprely, cus word sucks. NO caching, dirbom su Ugne fone.
+     Pn 10:00> actually dabar tik for real isjungiau caching.
+     su situo kodu inside .htaccess - https://www.a2hosting.com/kb/developer-corner/apache-web-server/turning-off-caching-using-htaccess?__cf_chl_jschl_tk__=pmd_a4d929eb96110ee07e0e956060ec5be8c56fc937-1628837718-0-gqNtZGzNAmKjcnBszQY6
+     paskaites sita - https://developers.google.com/web/fundamentals/performance/get-started/httpcaching-6q
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-10 An 07:00]--[2021-08-10 An 18:25] => 11:25
+     :END:
+*** 2021-08-11 Trečiadienis
+**** DONE Hover for email and phone
+CLOSED: [2021-08-11 Tr 14:02] SCHEDULED: <2021-08-11 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-11 Tr 17:54]
+   - Hover button for email and phone. + text next to logo for Julyte.
+     Simona ideas.
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-11 Tr 16:00]--[2021-08-11 Tr 20:30] =>  4:30
+   CLOCK: [2021-08-11 Tr 12:50]--[2021-08-11 Tr 13:21] =>  0:31
+     :END:
+
+*** 2021-08-12 Ketvirtadienis
+**** DONE Pliusiukai, hover fix ir pan.
+CLOSED: [2021-08-12 Tr 14:01] SCHEDULED: <2021-08-12 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-12 Kt 17:54]
+   - krc siandien ale vienas namie dirbau. Vakare atrodo, kad nieko nepadariau,
+     bet taip is tikro nera... ir pliusiukus panaikinau ir pataisiau hover
+     phone/email, meniu vel paspaudus bet kur uzsidaro/pasvieseja, dezutes
+     dabar per rageli matosi dvi vienoje eiluteje instead of 1, tvarkingai
+     ir per rageli ir per phone. Reikia risti reikalus tam kartui, bus
+     labai labai neblogai. O ateityje matysim kaip kas
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-12 Kt 17:50]--[2021-08-12 Kt 20:50] =>  3:00
+     CLOCK: [2021-08-12 Kt 12:05]--[2021-08-12 Kt 14:50] =>  2:45
+     :END:
+
+*** 2021-08-18 Trečiadienis
+**** DONE Julyte publish website on Linkedin
+     CLOSED: [2021-08-18 Tr 07:12] SCHEDULED: <2021-08-17 Tue>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 07:11] \\
+       linkedine nedaug kas sureagavo, nes nerodo fotkes jos kai papostino website,
+       fesibuka - nemazai reakcijos. Graziai postas atrodo.
+
+       Sulauke kazkokio tai pasiulymo susitikti su kitais verslininkais. Nice. Kontaktai.
+     :END:
+
+*** 2021-08-19 Ketvirtadienis
+**** DONE Fixed mobile thingies according to Simona
+CLOSED: [2021-08-19 Kt 14:00] SCHEDULED: <2021-08-19 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-19 Kt 17:54]
+   - Fixed mobile thingies according to Simona
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-19 Kt 18:50]--[2021-08-19 Kt 19:00] =>  0:10
+     :END:
+**** DONE Verslininku pusryciai Juyte
+     CLOSED: [2021-08-19 Kt 09:01] SCHEDULED: <2021-08-19 Kt 07:15>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE Fix website text width in mobile
+     CLOSED: [2021-08-19 Kt 18:55] SCHEDULED: <2021-08-18 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-19 Kt 18:54] \\
+       done. did it quite quick, in a couple of seconds.. but it took a while while
+       learning git/magit stuff. Cool, I like who I am becoming and the tools I am starting
+       to use.
+     - Note taken on [2021-08-18 Tr 07:51] \\
+       simona pastebejo ant savo maziuko ekrano, kad tekstas yra per didelis.
+       reikes pataisyti.
+     :END:
+
+** 2021-09 rugsėjo
+*** 2021-09-04 Šeštadienis
+**** DONE Calculating the hours, making a table
+CLOSED: [2021-09-04 Št 13:58] SCHEDULED: <2021-09-04 Št>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_09 RUGSEJIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :CLOCK:
+     CLOCK: [2021-09-04 Št 16:56]--[2021-09-04 Št 18:20] =>  1:24
+     - done, with a food break in between with Julyte. 
+       atlantine lideka, Julytei pachmieliukas
+     :END:
+**** DONE fixed julija.consuling time sheet, made a nice table.
+   CLOSED: [2021-09-04 Št 13:36] SCHEDULED: <2021-09-04 Št>
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+   :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+   :ARCHIVE_OLPATH: Laikas/2021_09 RUGSEJIS
+   :ARCHIVE_CATEGORY: julija.consulting
+   :ARCHIVE_TODO: DONE
+   :END:
+*** 2021-09-07 Antradienis
+**** DONE Tiko Julytei phantom
+CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Št 17:54]
+   - tiko Julytei tas Phantom dalykas, gerai, modifikuosiu
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 08:26]--[2021-08-07 Št 09:27] =>  1:01
+     :END:
+**** DONE Pytting in proper templates
+CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Št 17:54]
+   - done lol. just put in the proper div.
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 09:28]--[2021-08-07 Št 09:31] =>  0:03
+     :END:
+**** DONE Some styling
+CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - okay, will do the styling later together with Julyte
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 09:32]--[2021-08-07 Št 09:42] =>  0:10
+     :END:
+**** DONE Pries pasivaiksciojima
+CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - pries pasivaiksciojima ir maista +-
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 10:07]--[2021-08-07 Št 11:11] =>  1:04
+     :END:
+**** DONE Fixed fonts
+CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - normaliai.. fonts dalykai kol issiaiskinau, net nebepamenu kas ten dar buvo..
+     ilga diena
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 12:15]--[2021-08-07 Št 20:18] =>  8:03
+     :END:
+
+*** 2021-09-08 Trečiadienis
+**** DONE Neaisku
+CLOSED: [2021-09-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-08 Sk 17:54]
+   - visa diena, taip. Atimu kelias valandas del valgymo..
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-08 Sk 11:08]--[2021-08-08 Sk 21:42] => 10:34
+     :END:
+**** DONE sukurtas  el pastas - info@julija.consulting
+CLOSED: [2021-09-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-08 Sk 17:54]
+   - sukurtas el pastas - info@julija.consulting
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-09 Pr 09:00]--[2021-08-09 Pr 09:25] =>  0:25
+     :END:
+
+*** 2021-09-09 Ketvirtadienis
+**** DONE Saskaita faktura israsyti
+SCHEDULED: <2021-08-26 Sk>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     Julyte - konsultavosi del imones ikurimo, kazka tai Vytautas skatina, kad
+     jam saskaita israsytu. Julyte jauciasi nepasiruosus.
+**** DONE  check what is sass ir scss - in phantom template
+SCHEDULED: <2021-08-14 Sk>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+
+**** DONE kazkaip suvienodink css... especially for the popup buttons at the bottom
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE make kontaktai section in navigation - clickable
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE add some space after collapsible content
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE galiu padeti tuom ir tuom linkina kur nereikia. nuimk hyperlink is ten
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE do we need cookies for such a simple website?
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-11 Tr 19:18] \\
+
+     https://getpublii.com/blog/website-gdpr-compliant.html
+
+     Julyte asks if we need cookies - like on this website below
+     http://nempata.blogspot.com/p/p.html
+
+     Answer:
+     Does GDPR affect you and your webpage?
+
+     Whether you are operating a large online store, news portal or just a
+     small personal blog, if you process any kind of data taken from the
+     users who visit your site, then you will be subject to the new
+     regulations. This also applies if you do not collect personal data
+     yourself, but utilize third-party services for this purpose.
+
+     If you have or use any of the following items on your website, then it
+     will be worth double-checking that you meet the requirements of the
+     GDPR before the May deadline:
+
+     Your website collects data on visitors, such as via Google
+     analytics.  Your site has a registration form.  You have
+     e-commerce functionality on your site; that is, you collect
+     information to process payments, orders etc...  You have a
+     newsletter sign-up form.  You include social media links on your
+     pages e.g. Facebook, Twitter etc...  You use a comments system for
+     your articles, such as Disqus.  Your site has scripts that use
+     cookies.  You have a contact form for users to get in touch.
+
+     This isn't an exhaustive list, but it should give you an idea of the
+     most common situations that will involve some degree of personal data
+     collection and processing on your website.
+     :END:
+**** DONE merge both css files from front into one. merge then pages + front = see what affects what. make one file at the end.
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-12 Kt 12:06] \\
+       radau buda kaip suvienodinti fonts - uzteks tam kartui. O ir siaip nemazai
+       prasivale kai tryniau nereikalingus css. svaru dabar su dviem failais - front
+       ir pages.
+     - Note taken on [2021-08-12 Kt 12:06] \\
+       nemerginau, nereikia. Kaip bus su body, html ir pan tags? neiseis juk.
+     :END:
+**** DONE separate div for pliusiukas
+SCHEDULED: <2021-08-12 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-12 Kt 13:43] \\
+       per daug sudetinga, tiek to tam kartui
+     :END:
+**** DONE mobile rodyk du kvadraciukus instead of 1
+SCHEDULED: <2021-08-12 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     CLOSED: [2021-08-12 Kt 13:43]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-12 Kt 13:44
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-12 Kt 13:43] \\
+       kamavau kamavau ir prikamavau pagaliau. teko isjungti funkcija mobile view
+       prie @4xx px/ Dabar naudoja 700px maketa. check css, ten yra komentaras.
+     :END:
+**** DONE Geltoni pliusiukai??? wtf?
+SCHEDULED: <2021-08-12 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     CLOSED: [2021-08-12 Kt 19:06]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-12 Kt 19:06
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-12 Kt 19:06] \\
+       pakeiciau kitokiais - dabar ok. bent jau pas Julyte. Reikes teveliu paklaust.
+     :END:
+     use this page for the codes - make a separate div https://www.w3schools.com/charsets/ref_utf_dingbats.asp
+     pasirodo different browsers - different sizes/looks and apparently colors
+**** DONE julyte sakinukai isversti
+SCHEDULED: <2021-08-12 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     CLOSED: [2021-08-12 Kt 19:17]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-12 Kt 19:17
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-08 Sk 19:34] \\
+
+       Komandos formavimas ir sklandaus darbo užtikrinimas.
+       +Team building and ensuring smooth work.+
+       Forming teams and ensuring enhindered work.
+     :END:
+**** DONE add contact info in menu
+     SCHEDULED: <2021-08-11 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE SERVERIAI.lt kodel julytei neatidaro pasto
+     SCHEDULED: <2021-08-11 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-11 Tr 19:12]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-11 Tr 19:12
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE fix styling of a collapsible
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 07:07]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 07:07
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE telefoniukas visuose puslapiuose
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 07:25]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 07:25
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE pakeisk visus logo kaip front page
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 07:33]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 07:33
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE logo link to homepage
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 07:33]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 07:33
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE fix menu links
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 07:35]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 07:35
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE PROPER collapsible on PHONE!!
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 08:04]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 08:04
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE proper menu colors and font sizes/colors etc
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 09:24]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 09:24
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE LinkedIn profilis correct link (edit public html possibility)
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 09:31]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 09:31
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE add logo/favicon
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 09:31]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 09:31
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE how to remove .html from url bar
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_ITAGS: Julyte
+     :ARCHIVE_TODO: DONE
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-10 An 09:43] \\
+       woooooow!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+       add this to .httcaccess thingy and it worked right away.
+
+       from here - https://stackoverflow.com/questions/5730092/how-to-remove-html-from-url
+
+       RewriteEngine on
+
+
+       RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+       RewriteRule ^ /%1 [NC,L,R]
+
+       RewriteCond %{REQUEST_FILENAME}.html -f
+       RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+     :END:
+**** DONE proper links/proper folders(kaip atrodytu to the user)
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 17:41]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 17:42
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-10 An 17:41] \\
+       labai nice, uzteko uzdeti tai -
+
+       RewriteEngine on
+
+
+       RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+       RewriteRule ^ /%1 [NC,L,R]
+
+       RewriteCond %{REQUEST_FILENAME}.html -f
+       RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+     :END:
+**** DONE Force browser to clear cache
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 17:42]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 17:42
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+     :LOGBOOK:
+     - Note taken on [2021-08-10 An 08:05] \\
+
+       added this to .httcaccess
+       http://cristian.sulea.net/blog/disable-browser-caching-with-meta-html-tags/
+
+       #+BEGIN_SRC
+       <IfModule mod_headers.c>
+       Header set Cache-Control "no-cache, no-store, must-revalidate"
+       Header set Pragma "no-cache"
+       Header set Expires 0
+       </IfModule>
+       #+END_SRC
+
+       nesuprantu krc neveikia. per kompa veikia - per rageli - ne. keepina cache ir dar net gi nepravalo kai noriu pravalyt
+
+
+       <meta http-equiv="Pragma" content="no-cache">
+
+
+
+       You can append a random query parameter to the stylesheet url (for example via javascript or server side code). It will not change the css file that is being loaded, but it will prevent caching, because the browser detects a different url and will not load the cached stylesheet.
+
+       <link rel="stylesheet" type="text/css" href="http://mysite/style.css?id=1234">
+
+       http://www.i18nguy.com/markup/metatags.html#cache-control - antra eilute
+     :END:
+**** DONE linkedin profile is not available
+     SCHEDULED: <2021-08-10 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-10 An 18:47]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-10 An 18:47
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE Julija.consulting email create
+     SCHEDULED: <2021-08-09 Pr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-09 Pr 09:25]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-09 Pr 09:26
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE email/linkedin links - RG ROCKS!!!
+     SCHEDULED: <2021-08-09 Pr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-09 Pr 09:46]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-09 Pr 09:46
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :ARCHIVE_ITAGS: Julyte
+     :END:
+**** DONE insert text from word
+     SCHEDULED: <2021-08-08 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-08 Sk 23:43]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-08 Sk 23:43
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE add proper footer
+     SCHEDULED: <2021-08-08 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-08 Sk 23:43]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-08 Sk 23:44
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE FIXED footer in one place
+     SCHEDULED: <2021-08-08 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-08 Sk 23:44]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-08 Sk 23:44
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE atrink cobe dokus Julytei
+     SCHEDULED: <2021-08-07 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-07 Št 09:26]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-07 Št 09:26
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE Meniu su linkais i kita puslapi
+     SCHEDULED: <2021-08-07 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-07 Št 09:27]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-07 Št 09:27
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE width of collapsibles
+     SCHEDULED: <2021-08-07 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-07 Št 09:31]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-07 Št 09:31
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+**** DONE SSL sertifikatas kazkokiu budu
+     SCHEDULED: <2021-08-06 Pn>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+***** https://www.iv.lt/nemokami-lets-encrypt-sertifikatai-pliusai-ir-minusai/
+***** tikrinti ssl sertifikatus - https://ssl.iv.lt/#
+***** DONE automatinis peradresavimas - https://www.iv.lt/pagalba/Automatinis_peradresavimas_%C4%AF_HTTPS_protokol%C4%85
+      CLOSED: [2021-08-06 Pn 12:26]
+***** Julijos puslapiukas - check https://ssl.iv.lt/#56e9453ec359c5e40d04701ba5c1e25e
+***** kai step virsuj - done, irasyk tai(Tam į svetainės public_html ar vidinę direktoriją įkelkite žemiau nurodytą .htaccess failą:):
+ #+BEGIN_SRC
+ RewriteEngine On
+ RewriteCond %{HTTPS} !^on$
+ RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [L,R]
+ #+END_SRC
+**** DONE Ikonos - suvesk galus
+     SCHEDULED: <2021-08-06 Tr>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     CLOSED: [2021-08-06 Pn 13:18]
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-08-06 Pn 13:18
+     :ARCHIVE_FILE: ~/Dropbox/org/julija.consulting.org
+     :ARCHIVE_OLPATH: Julytes projektas
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+     taip pat galima naudoti - https://fontawesome.com/v5.15/icons
+**** DONE Domenas/Wordpress
+SCHEDULED: <2021-08-05 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+
+Archived entries from file /home/azeubu/Dropbox/org/julija.consulting.org
+
+**** DONE Tema/SetupThings
+SCHEDULED: <2021-08-05 Kt>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+Archived entries from file /home/azeubu/Dropbox/org/julija.consulting.org
+**** DONE Idejos pristatymas
+SCHEDULED: <2021-08-29 Sk>
+     :PROPERTIES:
+     :ARCHIVE_TIME: 2021-09-09 Kt 07:23
+     :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+     :ARCHIVE_OLPATH: Laikas/2021_07 LIEPA
+     :ARCHIVE_CATEGORY: julija.consulting
+     :ARCHIVE_TODO: DONE
+     :END:
+      :LOGBOOK:
+    - Note taken on [2021-07-29 Thu 12:07] \\
+      katik pristaciau Julytei dokus. Gavau bucki :)
+
+      Su Arune yra variantas pradeti dirbti. Pasiimam drauges buta 3 kambariu ir
+      stazuojames. Biski moka mum aisku. Susipazista kaip kas ir pan. Kaip sam-
+      dyti zmones, kaip susiplanuoti laika, kaip pasiskirstyti procesus ir pan.
+      Nes dabar stresiukas, stresuoja visi, pasimete, atsipalaidave tuo paciu metu.
+    - Note taken on [2021-07-28 Wed 21:13] \\
+      google - maisto gamybos konsultacija
+
+      daug info - https://www.msb.lt/konsultacijos-del-technologiniu-projektu-maisto-tvarkymo-imonems/
+
+      https://vijana.lt/
+
+      https://sveikataipalankus.lt/apie-mus/
+
+      kaip atrodyti brosiurele - https://sveikataipalankus.lt/produktas/sveika-mityba-su-maisto-technologe-raminta-bogusiene-online-konsultacija/
+
+      food industry consulting - https://www.linkedin.com/company/food-industry-consulting
+
+      http://nempata.blogspot.com/p/maisto-pramonei.html
+
+      https://tumosa.lt/
+    - Note taken on [2021-07-28 Wed 21:10] \\
+      gamybos vadovo pareigu belenkiek (cv.lt) bet algos kazkodel mazytes.. nesiekia 1500 eur. keista.
+    - Note taken on [2021-07-27 Tue 14:46] \\
+      Keiciu krypti - dabar busiu konsultante.
+    - Note taken on [2021-07-27 Tue 13:58] \\
+      okei, vakar julyte pasidziauge, jog Vytautas ja paragino imtis veiksmu su konsultavimu.
+      Nekantrauju padeti. 100 eur uz valanda!!! Julyte bus turtinga, gales pirkti ka tik nori!
+    - Note taken on [2021-07-28 Wed 21:07] \\
+      Gamybos vadovas - Šefas ieško darbo
+
+       Kaunas
+       Turintis daug darbo patirties gamybos vadovas - konsultantas ieško darbo .
+       Papildomai padedu pagerinti esamus Jūsų patiekalus iš meniu , sukurti ir
+       praturtinti meniu . dienos meniu , banketus ir furšetus .
+       Tai pat sudarau kalkuliacines ir technologines korteles visiems patiekalams .
+       +370 622 60790
+       https://www.skelbiu.lt/skelbimai/gamybos-vadovas-sefas-iesko-darbo-45203877.html
+    :END:
+**** DONE Researched consulting websites
+SCHEDULED: <2021-07-27 An>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_07 LIEPA
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :CLOCK:
+     CLOCK: [2021-07-28 Wed 21:02]--[2021-07-28 Wed 21:25] =>  0:23
+     :END:
+
