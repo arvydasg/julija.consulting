@@ -243,22 +243,23 @@ button,
 input[type=button],
 input[type=reset],
 input[type=submit] {
-	background-color: #eaf2fc;
-	border: .2rem solid black;
-	border-radius: .4rem;
-	color: black;
-	cursor: pointer;
-	display: inline-block;
-	font-size: 1.1rem;
-	font-weight: 700;
-	height: 3.8rem;
-	letter-spacing: .1rem;
-	line-height: 3.8rem;
-	padding: 0 3rem;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-	white-space: nowrap
+    background-color: #eaf2fc;
+    border: .2rem solid black;
+    border-radius: .4rem;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.1rem;
+    font-weight: 700;
+    height: 3.1rem;
+    letter-spacing: .1rem;
+    line-height: 3.4rem;
+    padding: 0 3rem;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap
 }
 
 .button:focus,

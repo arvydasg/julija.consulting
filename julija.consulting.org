@@ -1,57 +1,64 @@
 #+BEGIN: clocktable :maxlevel 4 :compact nil :emphasize t :scope file :timestamp t :link t :header "#+NAME: 2021_Rugsejis\n"
 #+NAME: 2021_Rugsejis
-| Timestamp       | Headline                                         | Time      |            |       |       |
-|-----------------+--------------------------------------------------+-----------+------------+-------+-------|
-|                 | *Total time*                                     | *2d 3:08* |            |       |       |
-|-----------------+--------------------------------------------------+-----------+------------+-------+-------|
-|                 | *[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021][2021]]*                                           | *2d 3:08* |            |       |       |
-|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08%20rugpj%C5%AB%C4%8Dio][2021-08 rugpjūčio]]/                          |           | /16:36/    |       |       |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-05%20Ketvirtadienis][2021-08-05 Ketvirtadienis]]                  |           |            |  4:36 |       |
-| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Sukurem%20julija.consulting][Sukurem julija.consulting]]                |           |            |       |  0:32 |
-| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Irasytas%20wordpress,%20peradresuotas%20domenas%20i%20nauja%20serveri][Irasytas wordpress, peradresuotas...]]     |           |            |       |  2:00 |
-| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Nukopijavau%20puslapi.%20wordpress-%20overkill][Nukopijavau puslapi. wordpress- overkill]] |           |            |       |  2:04 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-06%20Penktadienis][2021-08-06 Penktadienis]]                    |           |            |  1:04 |       |
-| <2021-08-06 Pn> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pritaikyti%20templates][Pritaikyti templates]]                     |           |            |       |  1:04 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-11%20Tre%C4%8Diadienis][2021-08-11 Trečiadienis]]                    |           |            |  5:01 |       |
-| <2021-08-11 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Hover%20for%20email%20and%20phone][Hover for email and phone]]                |           |            |       |  5:01 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-12%20Ketvirtadienis][2021-08-12 Ketvirtadienis]]                  |           |            |  5:45 |       |
-| <2021-08-12 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pliusiukai,%20hover%20fix%20ir%20pan.][Pliusiukai, hover fix ir pan.]]            |           |            |       |  5:45 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-19%20Ketvirtadienis][2021-08-19 Ketvirtadienis]]                  |           |            |  0:10 |       |
-| <2021-08-19 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20mobile%20thingies%20according%20to%20Simona][Fixed mobile thingies according to...]]    |           |            |       |  0:10 |
-|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09%20rugs%C4%97jo][2021-09 rugsėjo]]/                            |           | /1d 10:32/ |       |       |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-04%20%C5%A0e%C5%A1tadienis][2021-09-04 Šeštadienis]]                     |           |            |  1:24 |       |
-| <2021-09-04 Št> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Calculating%20the%20hours,%20making%20a%20table][Calculating the hours, making a table]]    |           |            |       |  1:24 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-07%20Antradienis][2021-09-07 Antradienis]]                     |           |            | 10:21 |       |
-| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Tiko%20Julytei%20phantom][Tiko Julytei phantom]]                     |           |            |       |  1:01 |
-| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pytting%20in%20proper%20templates][Pytting in proper templates]]              |           |            |       |  0:03 |
-| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Some%20styling][Some styling]]                             |           |            |       |  0:10 |
-| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pries%20pasivaiksciojima][Pries pasivaiksciojima]]                   |           |            |       |  1:04 |
-| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20fonts][Fixed fonts]]                              |           |            |       |  8:03 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-08%20Tre%C4%8Diadienis][2021-09-08 Trečiadienis]]                    |           |            | 10:59 |       |
-| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Neaisku][Neaisku]]                                  |           |            |       | 10:34 |
-| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::sukurtas%20el%20pastas%20-%20info@julija.consulting][sukurtas  el pastas -...]]                 |           |            |       |  0:25 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-09%20Ketvirtadienis][2021-09-09 Ketvirtadienis]]                  |           |            |  0:23 |       |
-| <2021-07-27 An> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Researched%20consulting%20websites][Researched consulting websites]]           |           |            |       |  0:23 |
-|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-10%20Penktadienis][2021-09-10 Penktadienis]]                    |           |            | 11:25 |       |
-| <2021-08-10 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Logo,%20menu,%20spalvos,%20Cv,%20caching][Logo, menu, spalvos, Cv, caching]]         |           |            |       | 11:25 |
+| Timestamp       | Headline                                         | Time       |           |       |       |
+|-----------------+--------------------------------------------------+------------+-----------+-------+-------|
+|                 | *Total time*                                     | *2d 12:28* |           |       |       |
+|-----------------+--------------------------------------------------+------------+-----------+-------+-------|
+|                 | *[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021][2021]]*                                           | *2d 12:28* |           |       |       |
+|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-07%20liepos][2021-07 liepos]]/                             |            | /0:23/    |       |       |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-07-28%20Tre%C4%8Diadienis][2021-07-28 Trečiadienis]]                    |            |           |  0:23 |       |
+| <2021-07-27 An> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Researched%20consulting%20websites][Researched consulting websites]]           |            |           |       |  0:23 |
+|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08%20rugpj%C5%AB%C4%8Dio][2021-08 rugpjūčio]]/                          |            | /2d 1:21/ |       |       |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-05%20Ketvirtadienis][2021-08-05 Ketvirtadienis]]                  |            |           |  4:36 |       |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Sukurem%20julija.consulting][Sukurem julija.consulting]]                |            |           |       |  0:32 |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Irasytas%20wordpress,%20peradresuotas%20domenas%20i%20nauja%20serveri][Irasytas wordpress, peradresuotas...]]     |            |           |       |  2:00 |
+| <2021-08-05 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Nukopijavau%20puslapi.%20wordpress-%20overkill][Nukopijavau puslapi. wordpress- overkill]] |            |           |       |  2:04 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-06%20Penktadienis][2021-08-06 Penktadienis]]                    |            |           |  1:04 |       |
+| <2021-08-06 Pn> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pritaikyti%20templates][Pritaikyti templates]]                     |            |           |       |  1:04 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-07%20%C5%A0e%C5%A1tadienis][2021-08-07 Šeštadienis]]                     |            |           | 10:21 |       |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Tiko%20Julytei%20phantom][Tiko Julytei phantom]]                     |            |           |       |  1:01 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pytting%20in%20proper%20templates][Pytting in proper templates]]              |            |           |       |  0:03 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Some%20styling][Some styling]]                             |            |           |       |  0:10 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pries%20pasivaiksciojima][Pries pasivaiksciojima]]                   |            |           |       |  1:04 |
+| <2021-08-07 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20fonts][Fixed fonts]]                              |            |           |       |  8:03 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-07%20Ketvirtadienis][2021-08-07 Ketvirtadienis]]                  |            |           | 11:25 |       |
+| <2021-08-10 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Logo,%20menu,%20spalvos,%20Cv,%20caching][Logo, menu, spalvos, Cv, caching]]         |            |           |       | 11:25 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-08%20Penktadienis][2021-08-08 Penktadienis]]                    |            |           | 10:59 |       |
+| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Neaisku][Neaisku]]                                  |            |           |       | 10:34 |
+| <2021-08-08 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::sukurtas%20el%20pastas%20-%20info@julija.consulting][sukurtas el pastas -...]]                  |            |           |       |  0:25 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-11%20Tre%C4%8Diadienis][2021-08-11 Trečiadienis]]                    |            |           |  5:01 |       |
+| <2021-08-11 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Hover%20for%20email%20and%20phone][Hover for email and phone]]                |            |           |       |  5:01 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-12%20Ketvirtadienis][2021-08-12 Ketvirtadienis]]                  |            |           |  5:45 |       |
+| <2021-08-12 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Pliusiukai,%20hover%20fix%20ir%20pan.][Pliusiukai, hover fix ir pan.]]            |            |           |       |  5:45 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-08-19%20Ketvirtadienis][2021-08-19 Ketvirtadienis]]                  |            |           |  0:10 |       |
+| <2021-08-19 Kt> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Fixed%20mobile%20thingies%20according%20to%20Simona][Fixed mobile thingies according to...]]    |            |           |       |  0:10 |
+|                 | \_  /[[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09%20rugs%C4%97jo][2021-09 rugsėjo]]/                            |            | /10:44/   |       |       |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-04%20%C5%A0e%C5%A1tadienis][2021-09-04 Šeštadienis]]                     |            |           |  1:24 |       |
+| <2021-09-04 Št> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Calculating%20the%20hours,%20making%20a%20table][Calculating the hours, making a table]]    |            |           |       |  1:24 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-11%20%C5%A0e%C5%A1tadienis][2021-09-11 Šeštadienis]]                     |            |           |  3:14 |       |
+| <2021-09-11 Št> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::add%20Tomo%20recommendations%20(google%20tags)][add Tomo recommendations (google tags)]]   |            |           |       |  3:14 |
+|                 | \_    [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::2021-09-13%20Pirmadienis][2021-09-13 Pirmadienis]]                     |            |           |  6:06 |       |
+| <2021-09-11 Št> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::call%20to%20action%20text%20-%20bendradarbiaukime%20!%20kontaktai%20cia,%20paslaugos%20cia][call to action text -...]]                 |            |           |       |  1:35 |
+| <2021-09-13 Pr> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::Creating%20wordpress%20theme%20from%20scrach.%20Why?][Creating wordpress theme from scrach....]] |            |           |       |  3:46 |
+| <2021-09-13 Pr> | \_      [[file:/home/azeubu/Dropbox/3.client_websites/julija.consulting/julija.consulting.org::set%20up%20Julyte%20website%20analytics%20stuff%20accordign%20to%20Tomas%20letter][set up Julyte website analytics stuff...]] |            |           |       |  0:45 |
  #+END:
 * Julija.consulting To-do
-** julija.consulting on web search
+** NEXT julija.consulting on web search
+** check if events data is ready
+SCHEDULED: <2021-09-14 An>
 ** Marketing
-*** NEXT add Tomo recommendations (google tags)
-    :PROPERTIES:
-    :Effort:   4:00
-    :END:
-    :CLOCK:
-    CLOCK: [2021-09-11 Št 06:14]
-    CLOCK: [2021-09-11 Št 05:59]--[2021-09-11 Št 06:07] =>  0:08
-    - chrome password improt problem
-    :END:
-*** call to action text - bendradarbiaukime ! kontaktai cia, paslaugos cia
+*** Watch this video to learn more - https://www.youtube.com/watch?v=1dwk_erXAko&ab_channel=AnalyticsMania-GoogleTagManager%26Analytics
 *** add address infox
+*** add julyte pages to google so they can be tracked
+*** contact page kaip sitas - https://www.fad.lt/kontaktai/
 ** fix tablet front page button
 ** sukurti puslapi kiek didesni, kur gali rasyti blogus ir pan. 
 ** contenta gali rasyti ta moteryte is spieciaus
+** NEXT [#A] padaryti list page hugo kuris galetu buti vertingas ir julytei
+SCHEDULED: <2021-09-14 An>
+:PROPERTIES:
+:Effort:   3:00
+:END:
 * 2021
 ** 2021-07 liepos
 *** 2021-07-28 Trečiadienis
@@ -65,7 +72,18 @@ CLOSED: [2021-07-28 An 13:44] SCHEDULED: <2021-07-28 An>
 :ARCHIVE_TODO: DONE
 :END:
 
-
+**** DONE Researched consulting websites
+SCHEDULED: <2021-07-27 An>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_07 LIEPA
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :CLOCK:
+     CLOCK: [2021-07-28 Wed 21:02]--[2021-07-28 Wed 21:25] =>  0:23
+     :END:
 ** 2021-08 rugpjūčio
 *** 2021-08-04 Trečiadienis
 **** DONE fotke julytei
@@ -147,6 +165,90 @@ CLOSED: [2021-08-06 Tr 14:06] SCHEDULED: <2021-08-06 Pn>
      CLOCK: [2021-08-06 Pn 13:00]--[2021-08-06 Pn 14:04] =>  1:04
      :END:
 
+
+*** 2021-08-07 Šeštadienis
+**** DONE Tiko Julytei phantom
+CLOSED: [2021-08-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Št 17:54]
+   - tiko Julytei tas Phantom dalykas, gerai, modifikuosiu
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 08:26]--[2021-08-07 Št 09:27] =>  1:01
+     :END:
+**** DONE Pytting in proper templates
+CLOSED: [2021-08-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Št 17:54]
+   - done lol. just put in the proper div.
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 09:28]--[2021-08-07 Št 09:31] =>  0:03
+     :END:
+**** DONE Some styling
+CLOSED: [2021-08-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - okay, will do the styling later together with Julyte
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 09:32]--[2021-08-07 Št 09:42] =>  0:10
+     :END:
+**** DONE Pries pasivaiksciojima
+CLOSED: [2021-08-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - pries pasivaiksciojima ir maista +-
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 10:07]--[2021-08-07 Št 11:11] =>  1:04
+     :END:
+**** DONE Fixed fonts
+CLOSED: [2021-08-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-07 Kt 17:54]
+   - normaliai.. fonts dalykai kol issiaiskinau, net nebepamenu kas ten dar buvo..
+     ilga diena
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-07 Št 12:15]--[2021-08-07 Št 20:18] =>  8:03
+     :END:
+*** 2021-08-07 Ketvirtadienis
 **** DONE Logo, menu, spalvos, Cv, caching
 CLOSED: [2021-08-10 An 14:01] SCHEDULED: <2021-08-10 Kt>
 :PROPERTIES:
@@ -167,6 +269,40 @@ CLOSED: [2021-08-10 An 14:01] SCHEDULED: <2021-08-10 Kt>
      :CLOCK:
    CLOCK: [2021-08-10 An 07:00]--[2021-08-10 An 18:25] => 11:25
      :END:
+*** 2021-08-08 Penktadienis
+**** DONE Neaisku
+CLOSED: [2021-08-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-08 Sk 17:54]
+   - visa diena, taip. Atimu kelias valandas del valgymo..
+     :END:
+     :CLOCK:
+   CLOCK: [2021-08-08 Sk 11:08]--[2021-08-08 Sk 21:42] => 10:34
+     :END:
+**** DONE sukurtas el pastas - info@julija.consulting
+CLOSED: [2021-08-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+     :LOGBOOK:
+     - Note taken on [2021-08-08 Sk 17:54]
+   - sukurtas el pastas - info@julija.consulting
+     :END:
+     :CLOCK:
+     CLOCK: [2021-08-09 Pr 09:00]--[2021-08-09 Pr 09:25] =>  0:25
+     :END:
+
 *** 2021-08-11 Trečiadienis
 **** DONE Hover for email and phone
 CLOSED: [2021-08-11 Tr 14:02] SCHEDULED: <2021-08-11 Kt>
@@ -299,123 +435,6 @@ CLOSED: [2021-09-04 Št 13:58] SCHEDULED: <2021-09-04 Št>
    :ARCHIVE_CATEGORY: julija.consulting
    :ARCHIVE_TODO: DONE
    :END:
-*** 2021-09-07 Antradienis
-**** DONE Tiko Julytei phantom
-CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-07 Št 17:54]
-   - tiko Julytei tas Phantom dalykas, gerai, modifikuosiu
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-07 Št 08:26]--[2021-08-07 Št 09:27] =>  1:01
-     :END:
-**** DONE Pytting in proper templates
-CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-07 Št 17:54]
-   - done lol. just put in the proper div.
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-07 Št 09:28]--[2021-08-07 Št 09:31] =>  0:03
-     :END:
-**** DONE Some styling
-CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-07 Kt 17:54]
-   - okay, will do the styling later together with Julyte
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-07 Št 09:32]--[2021-08-07 Št 09:42] =>  0:10
-     :END:
-**** DONE Pries pasivaiksciojima
-CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-07 Kt 17:54]
-   - pries pasivaiksciojima ir maista +-
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-07 Št 10:07]--[2021-08-07 Št 11:11] =>  1:04
-     :END:
-**** DONE Fixed fonts
-CLOSED: [2021-09-07 Tr 14:01] SCHEDULED: <2021-08-07 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-07 Kt 17:54]
-   - normaliai.. fonts dalykai kol issiaiskinau, net nebepamenu kas ten dar buvo..
-     ilga diena
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-07 Št 12:15]--[2021-08-07 Št 20:18] =>  8:03
-     :END:
-
-*** 2021-09-08 Trečiadienis
-**** DONE Neaisku
-CLOSED: [2021-09-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-08 Sk 17:54]
-   - visa diena, taip. Atimu kelias valandas del valgymo..
-     :END:
-     :CLOCK:
-   CLOCK: [2021-08-08 Sk 11:08]--[2021-08-08 Sk 21:42] => 10:34
-     :END:
-**** DONE sukurtas  el pastas - info@julija.consulting
-CLOSED: [2021-09-08 Tr 14:01] SCHEDULED: <2021-08-08 Kt>
-:PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
-:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_08 RUGPJUTIS
-:ARCHIVE_CATEGORY: julija.consulting
-:ARCHIVE_TODO: DONE
-:END:
-     :LOGBOOK:
-     - Note taken on [2021-08-08 Sk 17:54]
-   - sukurtas el pastas - info@julija.consulting
-     :END:
-     :CLOCK:
-     CLOCK: [2021-08-09 Pr 09:00]--[2021-08-09 Pr 09:25] =>  0:25
-     :END:
-
 *** 2021-09-09 Ketvirtadienis
 **** DONE Saskaita faktura israsyti
 SCHEDULED: <2021-08-26 Sk>
@@ -1187,16 +1206,129 @@ SCHEDULED: <2021-08-29 Sk>
        +370 622 60790
        https://www.skelbiu.lt/skelbimai/gamybos-vadovas-sefas-iesko-darbo-45203877.html
     :END:
-**** DONE Researched consulting websites
-SCHEDULED: <2021-07-27 An>
+
+*** 2021-09-11 Šeštadienis
+**** DONE add Tomo recommendations (google tags)
+CLOSED: [2021-09-11 Št 09:54] SCHEDULED: <2021-09-11 Št>
+    :PROPERTIES:
+    :Effort:   4:00
+    :ARCHIVE_TIME: 2021-09-11 Št 09:41
+    :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+    :ARCHIVE_OLPATH: Julija.consulting To-do/Marketing
+    :ARCHIVE_CATEGORY: julija.consulting
+    :ARCHIVE_TODO: DONE
+    :END:
+    :CLOCK:
+    CLOCK: [2021-09-11 Št 06:14]--[2021-09-11 Št 09:20] =>  3:06
+    CLOCK: [2021-09-11 Št 05:59]--[2021-09-11 Št 06:07] =>  0:08
+    - chrome password improt problem
+    :END:
+*** 2021-09-13 Pirmadienis
+**** CANCELLED call to action text - bendradarbiaukime ! kontaktai cia, paslaugos cia
+CLOSED: [2021-09-13 Pr 15:45] SCHEDULED: <2021-09-11 Št>
 :PROPERTIES:
-:ARCHIVE_TIME: 2021-09-09 Kt 07:23
+:Effort:   0:30
+:ARCHIVE_TIME: 2021-09-13 Pr 15:45
 :ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
-:ARCHIVE_OLPATH: Laikas/2021_07 LIEPA
+:ARCHIVE_OLPATH: Julija.consulting To-do/Marketing
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: CANCELLED
+:END:
+:LOGBOOK:
+- Note taken on [2021-09-13 Pr 15:44] \\
+  nieko nusprendem dabar nedaryti. Tiesiog pasireklamuoti ir ziureti ar reikalingos
+  yra paslaugos. Nedaryk kaip "specialistas" per daug dalyku.. pagalvok is pradziu 
+  ar jie tikrai yra reikalingi. Mldc Julyte, kad susivoke ir man tai pasake.
+:END:
+:CLOCK:
+CLOCK: [2021-09-11 Št 09:57]--[2021-09-11 Št 11:32] =>  1:35
+- nieko neisejo padaryti. krc "form text" ends up being very small due to some
+  javascript that is affecting the site. IF I remove the js file, the menu no longer
+  works.
+  
+  So no contact forms for now.. because I can not figure out where the modifications
+  in js file are coming from.
+  
+  Will ask Julyte later if its okay like that and if she wants the side menu place 
+  for the contact info.
+:END:
+**** DONE Creating wordpress theme from scrach. Why?
+CLOSED: [2021-09-13 Pr 08:41] SCHEDULED: <2021-09-13 Pr>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-09-13 Pr 15:47
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: 2021/2021-09 rugsėjo/2021-09-13 Pirmadienis
 :ARCHIVE_CATEGORY: julija.consulting
 :ARCHIVE_TODO: DONE
 :END:
-     :CLOCK:
-     CLOCK: [2021-07-28 Wed 21:02]--[2021-07-28 Wed 21:25] =>  0:23
-     :END:
-
+:LOGBOOK:
+- Note taken on [2021-09-13 Pr 15:46] \\
+  BUT WE DONT NEED IT NOW!!! for this month at least. 
+  
+  I can make it in django,  I can make it in hugo, I can make it in Wordpress.
+  
+  But we dont really need it now... first get the commercials going, see if there
+  is a need, only then, if she really wants to write something - only then create it.
+:END:
+[[https://www.youtube.com/watch?v=k7olvEeBM2I&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=4&ab_channel=LearnWebCode][this is the tutorial]]
+:PROPERTIES:
+:Effort:   20:00
+:END:
+:CLOCK:
+CLOCK: [2021-09-13 Pr 06:35]--[2021-09-13 Pr 08:40] =>  2:05
+- krc neapsisprendziu. su wordpress dahuja sunku sukurti ir meniu ir pan ir 
+  viska responsive. fun to learn, but maybe later...
+  
+  with hugo all of that is done for you, just have to figure out the paslaugos
+  page and thats all.
+CLOCK: [2021-09-13 Pr 05:49]--[2021-09-13 Pr 06:32] =>  0:43
+- krc einu install the way he tells to install. smth is messed up with posts.
+nvm I figured out. from the last tutorial I changed the homepage to a separate homepage file.
+so that is why I couldnt see the posts. taking a break.
+CLOCK: [2021-09-13 Pr 04:50]--[2021-09-13 Pr 05:48] =>  0:58
+- research only. dumping hugo this time
+:END:
+***** More customizible in the future
+***** Julija can add her own content herself
+***** I learn more about wordpress
+***** Possible to fully customize the theme to look like we want (clean frontpage)
+***** Easy to work with blogs
+**** DONE set up Julyte website analytics stuff accordign to Tomas letter
+CLOSED: [2021-09-13 Pr 18:57] SCHEDULED: <2021-09-13 Pr>
+:PROPERTIES:
+:Effort:   1:00
+:ARCHIVE_TIME: 2021-09-13 Pr 18:57
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Julija.consulting To-do
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+:CLOCK:
+CLOCK: [2021-09-13 Pr 18:11]--[2021-09-13 Pr 18:56] =>  0:45
+- padariau pagal sita tutorial - 
+  
+  https://www.youtube.com/watch?v=HgtsfqQMFnw&ab_channel=LovesData
+  
+  rasysiu jam laiska. paklausiu ar dar ko truksta.
+:END:
+*** 2021-09-14 Antradienis
+**** DONE Google tag manager play a bit more (CV, phone etc, dv padarom)
+CLOSED: [2021-09-14 An 10:01] SCHEDULED: <2021-09-14 An>
+:PROPERTIES:
+:Effort:   2:00
+:ARCHIVE_TIME: 2021-09-14 An 10:01
+:ARCHIVE_FILE: ~/Dropbox/3.client_websites/julija.consulting/julija.consulting.org
+:ARCHIVE_OLPATH: Julija.consulting To-do
+:ARCHIVE_CATEGORY: julija.consulting
+:ARCHIVE_TODO: DONE
+:END:
+:CLOCK:
+CLOCK: [2021-09-14 An 06:04]--[2021-09-14 An 10:01] =>  3:57
+- amazing tutorial by a lithuanian dude - 
+  https://www.youtube.com/watch?v=JC-hSn1Q3uI&ab_channel=AnalyticsMania-GoogleTagManager%26Analytics
+:END:
+***** CV kiek paspaude
+***** foto kiek paspaude
+***** Meniu kiek paspaude
+***** links for all the categories
+***** links for all those drop down thingies
